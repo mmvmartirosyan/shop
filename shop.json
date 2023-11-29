@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Vally",
+    "title": "букет 1",
     "vendor_code": "111",
     "description": "",
     "price": 1000,
@@ -9,15 +9,15 @@
   },
   {
     "id": "2",
-    "title": "CAT",
+    "title": "букет 2",
     "vendor_code": "222",
     "description": "Описание 2",
     "price": 2,
-    "img": "https://i.pinimg.com/474x/36/81/1f/36811f39508f04650b4a4ae51b99d22f.jpg"
+    "img": "https://i.pinimg.com/474x/e9/16/d3/e916d3b8b33ab2b334830808b9320543.jpg"
   },
   {
     "id": "3",
-    "title": "Avatar",
+    "title": "букет 3",
     "vendor_code": "333",
     "description": "Описание 3",
     "price": 300,
@@ -25,68 +25,35 @@
   },
   {
     "id": "4",
-    "title": "Яхта",
+    "title": "букет 4",
     "vendor_code": "444e",
     "description": "Описание 4",
     "price": 1200,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+    "img": "https://i.pinimg.com/474x/f1/6e/63/f16e6338def640e57f61c9b703a7e285.jpg"
   }
   ,
   {
     "id": "5",
-    "title": "Zooro",
+    "title": "букет 5",
     "vendor_code": "4445e",
     "description": "Описание 6",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    "img": "https://i.pinimg.com/474x/ad/0e/b4/ad0eb401530c9c3b3e22e89dd078c63d.jpg"
   },
   {
     "id": "6",
-    "title": "Wait",
+    "title": "букет 6",
     "vendor_code": "4446e",
     "description": "Описание 6",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    "img": "https://i.pinimg.com/474x/ce/f0/25/cef0257370fdc88d95de3da13f6f31c7.jpg"
   },
   {
     "id": "7",
-    "title": "Bob",
+    "title": "букет 7",
     "vendor_code": "4447e",
     "description": "Описание 7",
     "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    "img": "https://i.pinimg.com/474x/bf/95/39/bf9539186a5130c90ba5489973f43a9a.jpg"
   },
-  {
-    "id": "8",
-    "title": "Товар 8",
-    "vendor_code": "4448e",
-    "description": "Описание 8",
-    "price": 800,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
-  },
-  {
-    "id": "9",
-    "title": "Товар 9",
-    "vendor_code": "444e",
-    "description": "Описание 9",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
-  }
-  ,
-  {
-    "id": "10",
-    "title": "Товар 10",
-    "vendor_code": "44410e",
-    "description": "Описание 10",
-    "price": 900,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
-  },
-  {
-    "id": "11",
-    "title": "Товар 11",
-    "vendor_code": "44411e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
-  }
 ]
