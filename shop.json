@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "title": "букет 1",
+    "vendor_code": "111",
+    "description": "",
+    "price": 1000,
+    "img": "https://i.pinimg.com/474x/79/ef/41/79ef41afaa920fb8e91211b209ecb7ab.jpg"
+  },
+  {
+    "id": "2",
+    "title": "букет 2",
+    "vendor_code": "222",
+    "description": "Описание 2",
+    "price": 1500,
+    "img": "https://i.pinimg.com/474x/e9/16/d3/e916d3b8b33ab2b334830808b9320543.jpg"
+  },
+  {
+    "id": "3",
+    "title": "букет 3",
+    "vendor_code": "333",
+    "description": "Описание 3",
+    "price": 800,
+    "img": "https://i.pinimg.com/474x/08/8e/b8/088eb8001031e9dd765fbe2ba70555b7.jpg"
+  },
+  {
+    "id": "4",
+    "title": "букет 4",
+    "vendor_code": "444e",
+    "description": "Описание 4",
+    "price": 2500,
+    "img": "https://i.pinimg.com/474x/f1/6e/63/f16e6338def640e57f61c9b703a7e285.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "букет 5",
+    "vendor_code": "4445e",
+    "description": "Описание 6",
+    "price": 3000,
+    "img": "https://i.pinimg.com/474x/ad/0e/b4/ad0eb401530c9c3b3e22e89dd078c63d.jpg"
+  },
+  {
+    "id": "6",
+    "title": "букет 6",
+    "vendor_code": "4446e",
+    "description": "Описание 6",
+    "price": 1700,
+    "img": "https://i.pinimg.com/474x/ce/f0/25/cef0257370fdc88d95de3da13f6f31c7.jpg"
+  },
+  {
+    "id": "7",
+    "title": "букет 7",
+    "vendor_code": "4447e",
+    "description": "Описание 7",
+    "price": 3600,
+    "img": "https://i.pinimg.com/474x/bf/95/39/bf9539186a5130c90ba5489973f43a9a.jpg"
+  },
+]
